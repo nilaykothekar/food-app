@@ -1,0 +1,42 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "description": "this is a food ordering app",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "npm",
+    "ReactJS",
+    "React",
+    "JS",
+    "React.Js"
+  ],
+  "browserslist": [
+    "defaults and fully supports es6-module",
+    "maintained node versions",
+    "last 2 versions",
+    "not dead",
+    ">= 0.2%",
+    "IE 11",
+    "Safari >= 10",
+    "iOS >= 10",
+    "Android >= 5",
+    "Chrome >= 40",
+    "Firefox >= 40",
+    "Edge >= 12",
+    "Samsung >= 4"
+  ],
+  "author": "Nilay Kothekar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.47",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
