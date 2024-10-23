@@ -3,8 +3,18 @@
   "version": "1.0.0",
   "description": "this is a food ordering app",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilaykothekar/food-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nilaykothekar/food-app/issues"
+  },
+  "homepage": "https://github.com/nilaykothekar/food-app#readme",
   "keywords": [
     "npm",
     "ReactJS",
